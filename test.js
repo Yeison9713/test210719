@@ -1,3 +1,9 @@
-(()=>{
-    console.log("prueba");
+(() => {
+    test()
 })();
+
+
+
+function test() {
+    console.log("prueba");
+}
